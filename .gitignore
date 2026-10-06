@@ -1,0 +1,16 @@
+# Conteúdo pessoal de cada estudante: desafios e histórico de aprendizado
+desafios/*
+!desafios/.gitkeep
+progresso.md
+
+# Dependências e artefatos
+node_modules/
+package-lock.json
+
+# Configurações locais do Claude Code
+.claude/settings.local.json
+
+# Sistema operacional / editores
+.DS_Store
+.vscode/
+.idea/
